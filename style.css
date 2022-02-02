@@ -1,0 +1,12 @@
+body{
+    background-image: url(./Asset/background.png);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-size: cover;
+}
+canvas{
+    background-color: #dbab91;
+}
+.button{
+    margin: 25px;
+}
